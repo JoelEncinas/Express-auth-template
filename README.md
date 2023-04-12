@@ -13,5 +13,5 @@ Replace the user, password and secret_key variables at `.env` with yours. In the
 Open http://localhost:5000 to view it in your browser.
 
 ## 📷 Screenshots
-<img src="https://github.com/JoelEncinas/express-auth-template/blob/main/demo_img/register.PNG" alt="demo" width="350" height="300"/> <img src="https://github.com/JoelEncinas/express-auth-template/blob/main/demo_img/login.PNG" alt="demo" width="350" height="300"/> <img src="https://github.com/JoelEncinas/express-auth-template/blob/main/demo_img/protected.PNG" alt="demo" width="350" height="300"/>
+<img src="https://github.com/JoelEncinas/Express-auth-template/blob/main/demo_img/register.PNG" alt="demo" width="350" height="300"/> <img src="https://github.com/JoelEncinas/Express-auth-template/blob/main/demo_img/login.PNG" alt="demo" width="350" height="300"/> <img src="https://github.com/JoelEncinas/Express-auth-template/blob/main/demo_img/protected.PNG" alt="demo" width="350" height="300"/>
 
